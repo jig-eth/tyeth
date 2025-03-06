@@ -132,9 +132,9 @@ form.addEventListener("submit", async function (e) {
 
   const FD = new FormData(this);
 
-  FD.append("service_id", "collabplastic");
-  FD.append("template_id", "template_c35cqaf");
-  FD.append("user_id", "qZLh948YIMiotsI2J");
+  FD.append("service_id", "service_kd7odjs");
+  FD.append("template_id", "template_zgztabm");
+  FD.append("user_id", "BJpVM_nEL8hWpvwzj");
 
 
   const entries = FD.entries();
